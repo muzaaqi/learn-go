@@ -13,4 +13,7 @@ func main() {
 
 	var lastName = "As Shidiqi"
 	fmt.Println(lastName)
+
+	firstName := "Muhammad"
+	fmt.Println(firstName)
 }
