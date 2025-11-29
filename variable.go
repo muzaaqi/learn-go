@@ -30,4 +30,10 @@ func main() {
 	fmt.Println(firstNameConst)
 
 	const lastNameConst string = "As Shidiqi"
+
+	const (
+		firstConst = "Muhammad"
+		middleConst = "Zaki"
+		lastConst = "As Shidiqi"
+	)
 }
