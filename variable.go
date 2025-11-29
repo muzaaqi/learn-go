@@ -16,4 +16,13 @@ func main() {
 
 	firstName := "Muhammad"
 	fmt.Println(firstName)
+
+	var (
+		first = "Muhammad"
+		middle = "Zaki"
+		last = "As Shidiqi"
+	)
+	fmt.Println(first)
+	fmt.Println(middle)
+	fmt.Println(last)
 }
