@@ -25,4 +25,7 @@ func main() {
 	fmt.Println(first)
 	fmt.Println(middle)
 	fmt.Println(last)
+
+	const firstNameConst = "Muhammad"
+	fmt.Println(firstNameConst)
 }
