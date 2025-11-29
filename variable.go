@@ -10,4 +10,7 @@ func main() {
 
 	name = "Zaki"
 	fmt.Println(name)
+
+	var lastName = "As Shidiqi"
+	fmt.Println(lastName)
 }
