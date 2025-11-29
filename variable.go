@@ -28,4 +28,7 @@ func main() {
 
 	const firstNameConst = "Muhammad"
 	fmt.Println(firstNameConst)
+
+	const lastNameConst string = "As Shidiqi"
+	fmt.Println(lastNameConst)
 }
